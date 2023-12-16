@@ -12,4 +12,4 @@ Current Inclusions:
 *
 * fuamzimg.php
 * Plugin Name: Remove Amazon Images and Links
-* Description: Removes all images hosted by Amazon and any hyperlinks wrapping those images from the website content. Must remain active.
+* Description: Removes all images hosted by Amazon and any hyperlinks wrapping those images from the website content. Must remain activated.
